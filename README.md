@@ -1,4 +1,3 @@
-```markdown
 # dataframe_inserter
 
 `dataframe_inserter` is a Python package for inserting Pandas DataFrames into MySQL, PostgreSQL, and Google Sheets with ease. The package provides classes that abstract the process of inserting data into different databases and Google Sheets, allowing you to work with data in a uniform manner across different storage solutions.
@@ -98,5 +97,5 @@ For Google Sheets, the package leverages Google Sheets API and Google OAuth cred
 
 ## Contributing
 
-Feel free to contribute to this project by submitting issues or pull requests. To contribute:
+Feel free to contribute to this project by submitting issues or pull requests.
 
